@@ -16,6 +16,5 @@ int main(){
         goto UserAdminInvalid;
         break;
     }
-    printf("ali");
     return 0;
 }
