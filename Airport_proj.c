@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
-    printf("Heeeeeeeelp!");
+    printf("Heeeeeeeelp!\n");
+    printf("Team B");
     return 0;
 }
